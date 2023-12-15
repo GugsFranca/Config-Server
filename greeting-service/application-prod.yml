@@ -4,7 +4,7 @@ spring:
 
 greeting-service:
   greeting: "Pronto"
-  default-value: "Mondo"
+  default-value: "Manito"
 
 management:
   endpoints:

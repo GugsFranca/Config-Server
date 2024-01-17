@@ -3,7 +3,7 @@ spring:
     name: greeting-service
 
 greeting-service:
-  greeting: "Hello"
+  greeting: "Pronto"
   default-value: "word"
 
 management:
